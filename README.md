@@ -4,6 +4,9 @@ A minimal and modern drum pad application built with Flutter.
 This app allows users to tap on colorful pads to trigger different percussion sounds. 
 It is a beginner-friendly yet stylish project that showcases audio playback, UI grid layouts, and user interaction in Flutter.
 
+* This project was inspired by the course content of **KODPLANET** on the Udemy platform. It was developed as a practical exercise to enhance Flutter development skills.
+
+  
 ## Features
 
 - 🎵 9 Unique sound pads
@@ -18,7 +21,7 @@ To run this project locally:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/drum_machine_clean.git
+git clone https://github.com/bektas-sari/drum_machine_clean.git
 cd drum_machine_clean
 ```
 
@@ -45,9 +48,6 @@ pubspec.yaml           # Project configuration
 - Flutter SDK
 - Dart SDK
 - Android Studio or Visual Studio Code
-
-## Credits
-This project was inspired by the course content of **KODPLANET** on the Udemy platform. It was developed as a practical exercise to enhance Flutter development skills.
 
 ## License
 MIT License
