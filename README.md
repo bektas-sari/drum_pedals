@@ -12,10 +12,6 @@ It is a beginner-friendly yet stylish project that showcases audio playback, UI 
 - ⚡ Instant audio feedback
 - 🧼 Clean and minimal interface
 
-## Screenshots
-
-> *Add screenshots here if available*
-
 ## Getting Started
 
 To run this project locally:
