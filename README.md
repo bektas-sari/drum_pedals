@@ -1,6 +1,8 @@
 # Modern Drum Kit
 
-A minimal and modern drum pad application built with Flutter. This app allows users to tap on colorful pads to trigger different percussion sounds. It is a beginner-friendly yet stylish project that showcases audio playback, UI grid layouts, and user interaction in Flutter.
+A minimal and modern drum pad application built with Flutter. 
+This app allows users to tap on colorful pads to trigger different percussion sounds. 
+It is a beginner-friendly yet stylish project that showcases audio playback, UI grid layouts, and user interaction in Flutter.
 
 ## Features
 
